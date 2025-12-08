@@ -14,3 +14,7 @@ Quzify/Todo list/Task to display question your enter the answer its shows correc
 -   [Twitter](https://x.com/subbareddyk088)
 
 
+
+Live Link
+
+https://quziefy9392.netlify.app/
