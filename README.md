@@ -15,6 +15,4 @@ Quzify/Todo list/Task to display question your enter the answer its shows correc
 
 
 
-Live Link
 
-https://quziefy9392.netlify.app/
