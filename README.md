@@ -5,6 +5,9 @@ Quzify/Todo list/Task to display question your enter the answer its shows correc
 
 - Javascript
 
+## Live Link
+
+https://quizifys-app.netlify.app/
 
 ## Author
 
